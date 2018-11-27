@@ -6,3 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
+
+const testingGit(){
+    console.log('git now pushed to personal account as well');
+}
